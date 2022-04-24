@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](https://github.com/russkiymalchik/Getting-Started-to-Data-Science---Assignment)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="/images/image.png?raw=true"/>
 
 ---
 
