@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Zenius Professional Independent Learning  
 
 [Getting-Started-to-Data-Science (Califotnia housing)](https://github.com/russkiymalchik/Getting-Started-to-Data-Science---Assignment)
 <img src="/images/image.png?raw=true"/>
